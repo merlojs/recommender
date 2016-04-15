@@ -1,5 +1,5 @@
 
-Author : Juan Merlo Romero 
+Author : [Juan Merlo Romero](https://github.com/merlojs)
 
 A sample social website with movie & series recommendations
 
